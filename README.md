@@ -1,8 +1,6 @@
 ## Good Taco
 
  Good Taco is a site for a taco resturant. My air for the site was for customers to get a feel for the resturant, view images, view the menu and reserve a table for a time and date.
-
-## [View the deployed website here!](https://e01n.github.io/Styled-by-Saoirse/)
 ---
 
 ## Features 
